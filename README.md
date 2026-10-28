@@ -6,6 +6,11 @@
 
 **Season trends · Driver performance · Race reliability · Tyre strategies**
 
+### Explore the Project
+
+🌐 **[Visit F1 Race Analytics](https://amanpawar182006-glitch.github.io/F1-Race-analysis/)**  
+📖 **[Explore the Methodology](https://amanpawar182006-glitch.github.io/F1-Race-analysis/#methodology)**
+
 A Data Analytics with Tableau course project supported by a responsive project website.
 
 </div>
